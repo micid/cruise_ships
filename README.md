@@ -5,8 +5,11 @@ A Flutter project showing Cruise Ships data.
 ## Libraries
 
 Used `json_serializable` to generate json code for model classes.
+
 Used `freezed` for generating Unions/Sealed classes for network and state classes.
+
 Used `flutter_bloc` for state management.
+
 Used `bloc_test` for testing the ShipCubit.
 
 ## Architecture details
