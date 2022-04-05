@@ -4,6 +4,8 @@ A Flutter project showing Cruise Ships data.
 
 ## Libraries
 
+Used `dio` for http request.
+
 Used `json_serializable` to generate json code for model classes.
 
 Used `freezed` for generating Unions/Sealed classes for network and state classes.
